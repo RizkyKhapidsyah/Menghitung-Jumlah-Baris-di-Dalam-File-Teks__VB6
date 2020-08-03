@@ -1,0 +1,2 @@
+Tips untuk menghitung jumlah baris yang terdapat di dalam suatu file (teks). Mungkin suatu ketika, Anda akan memproses data yang sangat banyak yang terdiri dari ratusan bahkan ribuan baris dalam suatu file teks. Jika waktu proses diperkirakan memakan waktu yang relatif lama, akan lebih baik menampilkan proses kemajuan di suatu control ProgressBar. 
+Untuk mengambil informasi jumlah baris yang akan diproses agar dapat di-assign ke dalam property Max milik ProgressBar, Anda dapat menggunakan tips ini, karena waktu yang dibutuhkan untuk menghitungnya sangat cepat.
